@@ -19,7 +19,7 @@ First-year PhD candidate at **HKUST NLP Group** · Ph.D. in Computer Science, Ho
 
 - **Name:** Junteng Liu
 - **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-- **Affiliation:** HKUST NLP Group, Department of Computer Science and Engineering, Hong Kong University of Science and Technology
+- **Affiliation:** HKUST NLP Group
 - **Academic status:** First-year PhD candidate in Computer Science (Ph.D. started 2024)
 
 ## Contact
@@ -60,7 +60,7 @@ First-year PhD candidate at **HKUST NLP Group** · Ph.D. in Computer Science, Ho
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** — 2025, arXiv. First author: Junteng Liu. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** — 2024, EMNLP 2024. First author: Junteng Liu. Co-authors: Shiqi Chen, Yu Cheng, Junxian He.
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** — 2024, ICML 2024. Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
-5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** — 2023, NeurIPS 2023. Authors: Yuzhen Huang, Yuzhuo Bai, Zhihong Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
+5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** — 2023, NeurIPS 2023. Authors: Yuzhen Huang, Yuzhen Huang, Zhihong Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** — 2023, NeurIPS 2023. Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
 
 ---
